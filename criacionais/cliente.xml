@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+   <cliente>
+      <email>joselito@gmail.com</email>
+      <id>1</id>
+      <nome>Joselito Muller</nome>
+      <sexo>Male</sexo>
+      <telefone>55-84-99678-4532</telefone>
+   </cliente>
+   <cliente>
+      <email>marilia@gmail.com</email>
+      <id>2</id>
+      <nome>Marilia Mendonça</nome>
+      <sexo>Female</sexo>
+      <telefone>55-84-99678-4533</telefone>
+   </cliente>
+   <cliente>
+      <email>joseaugusto@gmail.com</email>
+      <id>3</id>
+      <nome>José Augusto</nome>
+      <sexo>Male</sexo>
+      <telefone>55-83-99634-4531</telefone>
+   </cliente>
+   <cliente>
+      <email>amadeus@gmail.com</email>
+      <id>4</id>
+      <nome>Amadeus</nome>
+      <sexo>Male</sexo>
+      <telefone>55-61-99678-4532</telefone>
+   </cliente>
+   <cliente>
+      <email>joselito@gmail.com</email>
+      <id>5</id>
+      <nome>Joselito Muller</nome>
+      <sexo>Male</sexo>
+      <telefone>55-84-99678-4532</telefone>
+   </cliente>
+</clientes>

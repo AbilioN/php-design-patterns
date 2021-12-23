@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Joselito Muller",
+        "email" : "joselito@gmail.com",
+        "sexo" : "Male",
+        "telefone" : "55-84-99678-4532"
+    },
+    {
+        "id" : 2,
+        "nome" : "Marilia Mendonça",
+        "email" : "marilia@gmail.com",
+        "sexo" : "Female",
+        "telefone" : "55-84-99678-4533"
+    },
+    {
+        "id" : 3,
+        "nome" : "José Augusto",
+        "email" : "joseaugusto@gmail.com",
+        "sexo" : "Male",
+        "telefone" : "55-83-99634-4531"
+    },
+    {
+        "id" : 4,
+        "nome" : "Amadeus",
+        "email" : "amadeus@gmail.com",
+        "sexo" : "Male",
+        "telefone" : "55-61-99678-4532"
+    },
+    {
+        "id" : 5,
+        "nome" : "Joselito Muller",
+        "email" : "joselito@gmail.com",
+        "sexo" : "Male",
+        "telefone" : "55-84-99678-4532"
+    }
+]
